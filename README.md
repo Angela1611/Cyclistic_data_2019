@@ -1,9 +1,8 @@
----
-title: "Cyclistic_data_2019"
-author: "Angela Escobar"
-date: "2024-02-01"
-output: html_document
----
+
+# "Cyclistic_data_2019"
+## "Angela Escobar"
+### "2024-02-01"
+
 
 This project served as the capstone project for the Google Data Analytics Professional Certificate. The task involved analyzing data from a company named "Cyclisctic" which provides rental services for various types of public bicycles in the city of Chicago, during a specific period (2019) with a clear objective: gaining insights to increase the conversion rate from casual customers to annual subscribers. 
 
