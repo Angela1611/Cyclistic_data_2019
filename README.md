@@ -129,36 +129,41 @@ After conducting the necessary operations for this analysis, the following resul
 
 * Subscribers use the service more than triple the number of times compared to customers.Here we can see that most of the trips are done by subscribers
 
-![](02. Percentage of trips made by usertype.png)
+![02  Percentage of trips made by usertype](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/40d044f8-0699-44e4-8742-f4da8405757a)
+
 
 
 
 * However, the average trip duration for customers is more than triple that of subscribers.
 
-![](01.AverageTripDurationByUser Type.png)
+![01 AverageTripDurationByUser Type](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/ad3f68c2-2ee7-43eb-a773-5bc1ec18802c)
+
 
 
 
 * Subscribers move more during peak hours (7-9am, 4-6pm). Customers move more towards the second half of the day (11-7pm)
 
 
+![05  Trips by hour and usertype](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/72b6110b-af77-47fa-b940-5025158a259f)
 
-![](05. Trips by hour and usertype.png)
 * This suggests that most subscribers use the service primarily for commuting, while customers use it more for recreational purposes.
 
 
 * Subscribers use the service more during weekdays, while customers use it more during weekends
 
-![](03. Trips by usertypes during the week.png)
+![03  Trips by usertypes during the week](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/5bda9108-7771-4733-9558-b09710c5cd63)
+
 
 * Customer trips decrease greatly during the months of November to February, and some subscribers keep being active but not as much as the rest of the year. Summer is the season with more activity, followed by autumn and spring, during the winter 
 
-![](04. Trips by usertypes during the year.png)
+![04  Trips by usertypes during the year](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/8f801fd9-0d0b-426b-bb78-7b71775df298)
+
 
 
 * These are the most popular stations both departing from and arriving to
 
-![](06. Top Stations.png) 
+![06  Top Stations](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/cc3dab3f-ef82-4b3f-b8f5-d701cc13273d)
+
 
 
 ### **6. Act** 
