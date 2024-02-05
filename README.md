@@ -242,5 +242,5 @@ Present the new measures, plans and information at the busiest stations for user
 
 **____________________________ END OF STUDY CASE___________________________________________**
 
-## Conclusions
+
 
