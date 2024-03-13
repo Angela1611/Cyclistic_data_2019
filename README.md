@@ -163,6 +163,9 @@ After conducting the necessary operations for this analysis, the following resul
 
 ![06  Top Stations](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/cc3dab3f-ef82-4b3f-b8f5-d701cc13273d)
 
+An interactive dashboard was developed in Power BI to summary all visualizations and conclusions, which can be accessed at the following [link](https://app.powerbi.com/groups/me/reports/0015e8ad-7008-4f88-a7d4-e0c77efca611/ReportSection?experience=power-bi)
+
+![10](https://github.com/Angela1611/Cyclistic_data_2019/assets/158333155/70670dd2-2558-4d0a-94be-f8208ce5ecd7)
 
 
 ### **6. Act** 
