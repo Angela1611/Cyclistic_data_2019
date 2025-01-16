@@ -5,7 +5,7 @@ df20192<-read.csv("C:\\Users\\Usuario\\Documents\\Data Analytics\\Case Study Bik
 df20193<-read.csv("C:\\Users\\Usuario\\Documents\\Data Analytics\\Case Study Bikes\\df2019\\df2019_3.csv")
 df20194<-read.csv("C:\\Users\\Usuario\\Documents\\Data Analytics\\Case Study Bikes\\df2019\\df2019_4.csv")
 
-#Install packages
+#Install all packages
 install.packages("dplyr") 
 install.packages("janitor") 
 install.packages("lubridate") 
