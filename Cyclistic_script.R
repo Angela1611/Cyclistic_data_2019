@@ -1,5 +1,5 @@
 #__________________________PREPARE AND CLEANING_________________________________
-#Import datasets
+#Import all datasets
 df20191<-read.csv("C:\\Users\\Usuario\\Documents\\Data Analytics\\Case Study Bikes\\df2019\\df2019.csv")
 df20192<-read.csv("C:\\Users\\Usuario\\Documents\\Data Analytics\\Case Study Bikes\\df2019\\df2019_2.csv")
 df20193<-read.csv("C:\\Users\\Usuario\\Documents\\Data Analytics\\Case Study Bikes\\df2019\\df2019_3.csv")
