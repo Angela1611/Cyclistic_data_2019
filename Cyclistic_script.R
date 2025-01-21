@@ -55,7 +55,7 @@ colnames(df20194)
 #bind all dataframes into one
 Cyclistic_data_2019 <- rbind(df20191, df20192, df20193, df20194)
 
-#View the new dataframe with all information combined
+#View the new dataframe with all information combined:
 View(Cyclistic_data_2019)
 
 
