@@ -25,7 +25,7 @@ library("ggplot2")
 library("reshape2")
 library("knitr")
 
-#Check column names to bind all datasets into one
+#Check column names to bind all datasets into one:
 colnames(df20191)
 colnames(df20192)
 colnames(df20193)
