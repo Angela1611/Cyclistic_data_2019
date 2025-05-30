@@ -128,7 +128,7 @@ ggplot(average_trip_duration, aes(x = usertype, y = avg_tripduration)) +
        y = "Average Trip Duration") +
   theme_minimal()
 
-#### PERCENTAGE OF TRIPS MADE BY USERTYPE ####
+### PERCENTAGE OF TRIPS MADE BY USERTYPE ###
 
 percentage_data <- Cyclistic_data_2019 %>%
   group_by(usertype) %>%
